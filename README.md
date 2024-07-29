@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Hossam-Allam/Etch-a-Sketch">
-    <img src="pic.png" alt="Logo" width="500" height="400">
+    <img src="pic.png" alt="Logo" width="510" height="410">
   </a>
 
 <h3 align="center">Etch a Sketch</h3>
