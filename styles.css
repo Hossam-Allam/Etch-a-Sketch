@@ -27,10 +27,26 @@ h1 {
 ul {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     padding-right: 10px;
     list-style: none;
 
+}
+
+.black {
+    cursor: pointer;
+}
+
+.size {
+    cursor: pointer;
+}
+
+.rainbow {
+    cursor: pointer;
+}
+
+.github {
+    cursor: pointer;
 }
 
 /*main section*/
@@ -54,4 +70,6 @@ span {
     border-radius: 8px;
     background-color: white;
     display: flex;
+    flex-direction: column;
+
 }
